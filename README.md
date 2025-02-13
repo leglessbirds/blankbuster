@@ -15,7 +15,7 @@ Python 3.x
 克隆此仓库：
 
 bash
-git clone https://github.com/yourusername/blankbuster.git
+git clone https://github.com/leglessbirds/blankbuster.git
 cd BlankBuster
 安装所需的 Python 库：
 
