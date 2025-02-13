@@ -1,0 +1,17 @@
+{
+    "threads": 15,
+    "timeout": 5,
+    "default_protocol": "SSH",
+    "log_path": "./scan.log",
+    "protocol_settings": {
+        "SSH": {"port": 22},
+        "FTP": {"port": 21},
+        "MySQL": {"port": 3306},
+        "Telnet": {"port": 23},
+        "SMTP": {"port": 25},
+        "MSSQL": {"port": 1433},
+        "PostgreSQL": {"port": 5432},
+        "SMB": {"port": 445},
+        "RDP": {"port": 3389}
+    }
+}
